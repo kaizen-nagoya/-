@@ -350,7 +350,7 @@ Controller --> Session
 
 @enduml
 ```
-![exec](exex.png)
+![exec](exec.png)
 ---
 
 # 3枚を並べると
