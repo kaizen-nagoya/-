@@ -122,6 +122,7 @@ Service --> Queue
 
 @enduml
 ```
+![arch](./arch.png)
 
 ### この図で重要なのは
 
